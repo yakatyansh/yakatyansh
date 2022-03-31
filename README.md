@@ -4,7 +4,7 @@
 ### Hi there 👋
 ### I'm Yash
  
-<img alt="Linkedin" src="https://img.shields.io/badge/linkedin-Yash%20Katyan-blue?style=for-the-badge&logo=linkedin" href="https://www.linkedin.com/in/yash-katyan-580b8b66"//>
+<img alt="Linkedin" src="https://img.shields.io/badge/linkedin-Yash%20Katyan-blue?style=for-the-badge&logo=linkedin" href="https://www.linkedin.com/in/yash-katyan-580b8b66">
 
 
 
