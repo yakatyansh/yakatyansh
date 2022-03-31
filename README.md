@@ -10,6 +10,9 @@
 - 📧 Reach me by sending an email to : [yashkatyan1208@gmail.com](mailto:yashkatyan1208@gmail.com)
 
 
+![Yash's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=yashk2000&show_icons=true&hide_border=false&title_color=03E6FF&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
 
 
 
