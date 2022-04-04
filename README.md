@@ -5,6 +5,7 @@
 ### I'm Yash
  
 ### Let's connect 
+<a href="https://twitter.com/YashK120802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ydts2" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yash-katyan-580b8b66/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ydts2" height="30" width="40" /></a>
 
 
@@ -39,7 +40,7 @@
 
 
 
-<p align="center"><a href="https://github.com/pavankumar097"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"><a href="https://github.com/ydts2"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 
 
