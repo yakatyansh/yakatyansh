@@ -17,8 +17,13 @@
 
 
 
-
-![github contribution grid snake animation](file:///Users/yashkatyan/Desktop/github-user-contribution.svg)
+  ### generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+     
+     name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v1.1.2
+        with:
+          github_user_name: ${{ github.ydts2}}
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
 
 
