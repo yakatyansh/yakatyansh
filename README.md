@@ -18,10 +18,7 @@
 
 
 
-
-
-file:///Users/yashkatyan/Desktop/github-user-contribution.svg
-
+![github contribution grid snake animation](file:///Users/yashkatyan/Desktop/github-user-contribution.svg)
 
 
 
