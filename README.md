@@ -17,8 +17,6 @@
 
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/ydts2/ydts2/main/github-user-contribution.svg)
-
 
 
 
