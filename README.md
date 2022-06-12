@@ -11,7 +11,7 @@
 
 
 
-- 👨‍💻 I'm a beginner in Python,App Developement and C++
+- 👨‍💻 I'm a beginner in ReactJS
 - ✍️ Currently pursuing B.Tech in Electrical and Computer engineering.
 
 
