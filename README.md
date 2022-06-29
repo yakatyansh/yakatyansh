@@ -25,7 +25,7 @@
 
 
 
-![Yash's github stats]![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ydts2&count_private=true&show_icons=true&theme=radical)
+![Yash's github stats](https://github-readme-stats.vercel.app/api?username=ydts2&count_private=true&show_icons=true&theme=radical)
 <p align="center"><img src = "https://github-readme-stats.vercel.app/api/top-langs?username=ydts2&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true"/></p>
 
 
