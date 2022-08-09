@@ -26,7 +26,6 @@
 
 ![Yash's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ydts2&theme=solarized_dark)
 
-![](https://raw.githubusercontent.com/ydts2/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 
 
