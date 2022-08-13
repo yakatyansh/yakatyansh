@@ -13,6 +13,7 @@
 
 - 👨‍💻 I'm a beginner in ReactJS
 - ✍️ Currently pursuing B.Tech in Electrical and Computer engineering.
+- Wanna chat ? ping me on Discord @ 812SuperVeloce#1160
 
 
 
