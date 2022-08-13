@@ -11,9 +11,12 @@
 
 
 
-- 👨‍💻 I'm a beginner in ReactJS
-- ✍️ Currently pursuing B.Tech in Electrical and Computer engineering.
-- Wanna chat ? ping me on Discord @ 812SuperVeloce#1160
+## Currently learning
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 
