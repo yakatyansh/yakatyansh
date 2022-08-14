@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/yash-katyan-580b8b66/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ydts2" height="30" width="40" /></a>
 
 
-
+## Working on : 
 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -17,7 +17,6 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ydts2.visitor-badge&left_text=MyPageVisitors)
 
 
 
