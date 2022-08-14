@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/yash-katyan-580b8b66/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ydts2" height="30" width="40" /></a>
 
 
-### Working on : 
+### Working on 
 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -24,8 +24,7 @@
 
 
 
-
-
+### My Stats
 
 ![Yash's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ydts2&theme=solarized_dark)
 
