@@ -27,9 +27,8 @@
 ### My Stats
 
 ![Yash's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ydts2&theme=solarized_dark)
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ydts2&show_icons=true&theme=radical)
-![](https://raw.githubusercontent.com/ydts2/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ydts2/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![Yash's Github stats](https://raw.githubusercontent.com/ydts2/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Yash's Github stats](https://raw.githubusercontent.com/ydts2/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 
 
