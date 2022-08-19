@@ -26,7 +26,7 @@
 
 ### My Stats
 
-![Yash's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yakatyansh2&theme=solarized_dark)
+![Yash's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ydts2&theme=solarized_dark)
 
 
 
