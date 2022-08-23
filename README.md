@@ -18,6 +18,13 @@
 ![](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
+### My Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yakatyansh&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yakatyansh&theme=github_dark)
+
+
 
 
 
