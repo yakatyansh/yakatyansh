@@ -28,8 +28,6 @@
 
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/yakatyansh/yakatyansh/output/github-contribution-grid-snake.svg)
-
 
 
 
