@@ -24,8 +24,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yakatyansh&theme=github_dark)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+START_SECTION:waka
+END_SECTION:waka
 
 
 
