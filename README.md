@@ -20,6 +20,8 @@
 
 ### My Stats
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=yakatyansh)](https://github.com/yakatyansh/github-profile-trophy)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yakatyansh&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yakatyansh&theme=github_dark)
@@ -27,7 +29,6 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yakatyansh)](https://github.com/yakatyansh/github-profile-trophy)
 
 
 
