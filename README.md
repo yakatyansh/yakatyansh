@@ -25,6 +25,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yakatyansh&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yakatyansh&theme=github_dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yakatyansh1&theme=dark)](https://git.io/streak-stats)
 
 
 
