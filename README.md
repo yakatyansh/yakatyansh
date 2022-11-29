@@ -38,6 +38,15 @@
 
 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p0xcgg1npwm8wvvfxdtzaxfu1&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=10f47e&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=p0xcgg1npwm8wvvfxdtzaxfu1&redirect=true)
+
+
+
+
+
+
+
+
 
 
 
