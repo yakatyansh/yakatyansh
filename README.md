@@ -2,15 +2,24 @@
 
 
 
-[![@yk2082's Holopin board](https://holopin.me/yk2082)](https://holopin.io/@yk2082)
+### Hi there 👋, my name is Yash
+#### I am a Sophomore in Amrita School of Engineering, Amritapuri
+![I am a Sophomore in Amrita School of Engineering, Amritapuri](https://holopin.me/yk2082)
+
+I am a enthusiastic developer and a quick learner ready to adopt new technology
+
+Skills:   REACT / JS / HTML / CSS / PYTHON / C++
+
+- 🔭 I’m currently working on LMS 
+- 🌱 I’m currently learning React 
+- 👯 I’m looking to collaborate on anything web 
+- 🤔 I’m looking for help with swift 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I love Cars 
 
 
-### Hi there 👋
-### I'm Yash
- 
-### Let's connect 
-<a href="https://twitter.com/YashK120802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ydts2" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/yash-katyan-580b8b66/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ydts2" height="30" width="40" /></a>
+
+
 
 
 ### The tools I am using
