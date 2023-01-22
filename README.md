@@ -10,7 +10,7 @@ I am a enthusiastic developer and a quick learner ready to adopt new technology
 
 Skills:   REACT / JS / HTML / CSS / PYTHON / C++
 
-- 🔭 I’m currently working on LMS 
+- 🔭 I’m currently working my way into GSOC (Google Summer of Code)
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on anything web 
 - 🤔 I’m looking for help with swift 
