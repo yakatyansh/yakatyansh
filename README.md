@@ -9,6 +9,8 @@
 I am a enthusiastic developer and a quick learner ready to adopt new technology
 
 Tech stack:   REACT / JS / HTML / CSS / PYTHON / C++
+
+
 Skills: Basic Frontend
 
 - 🔭 I’m currently working my way into GSOC (Google Summer of Code)
