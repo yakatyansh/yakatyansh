@@ -50,7 +50,14 @@ Skills: Basic Frontend
 
 <!-- Markdown -->
 
+<div align="center">
+  
+  <p>Dev Joke for you</p>
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+  
+</div>  
+  
 
 
 
