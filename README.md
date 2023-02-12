@@ -35,6 +35,8 @@ Skills: Basic Frontend
 
 ### My Stats
 
+<figure><embed src="https://wakatime.com/share/@haha/e11328d6-b34c-49e6-affe-9a9a18300b6d.svg"></embed></figure>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=yakatyansh)](https://github.com/yakatyansh/github-profile-trophy)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yakatyansh&theme=github_dark)
