@@ -13,10 +13,10 @@ Tech stack:   REACT / JS / HTML / CSS / PYTHON / C++
 
 Skills: Basic Frontend
 
-- 🔭 I’m currently working my way into GSOC (Google Summer of Code)
-- 🌱 I’m currently learning React 
-- 👯 I’m looking to collaborate on anything web 
-- 🤔 I’m looking for help with swift 
+- 🔭 I’m currently working on my ML knowledge
+- 🌱 I’m currently learning ML on tensorflow
+- 👯 I’m looking to collaborate on anything frontend
+- 🤔 I’m looking for help with Machine learning
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I love Cars 
 
