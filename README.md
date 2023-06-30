@@ -14,7 +14,7 @@ Tech stack:   REACT / JS / HTML / CSS / PYTHON / C++
 Skills: Basic Frontend
 
 - 🔭 I’m currently working on my ML knowledge
-- 🌱 I’m currently learning ML on tensorflow
+- 🌱 I’m currently learning ML on Pytorch
 - 👯 I’m looking to collaborate on anything frontend
 - 🤔 I’m looking for help with Machine learning
 - 😄 Pronouns: He/Him 
