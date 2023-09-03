@@ -3,7 +3,7 @@
 
 
 ### Hi there 👋, my name is Yash
-#### I am a Sophomore in Amrita School of Engineering, Amritapuri
+#### I am a Pre-final Year in Amrita School of Engineering, Amritapuri
 ![I am a Sophomore in Amrita School of Engineering, Amritapuri](https://holopin.me/yk2082)
 
 I am a enthusiastic developer and a quick learner ready to adopt new technology
