@@ -16,12 +16,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a background in El
 - **Tools & Platforms:** Brew, VSCode, Unix Terminal, Git
 
 
-## Connect with Me
-
-- [LinkedIn](link-to-linkedin-profile)
-- [Twitter](link-to-twitter-profile)
-- [Personal Website](link-to-personal-website)
-
 ## GitHub Stats
 
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yakatyansh&show_icons=true&theme=radical)
