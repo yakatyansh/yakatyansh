@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a background in El
 - 🌱 I’m currently learning and exploring new technologies.
 - 💼 I’m looking to collaborate on open source projects.
 - 🎓 I have a background in Electrical Engineering and Computer Science.
-- ⚡ Fun fact: [Something interesting about you].
+- ⚡ Fun fact: I am a carguy
 
 ## Skills
 
