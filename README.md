@@ -19,7 +19,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a background in El
 ## GitHub Stats
 
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yakatyansh&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=yakatyansh&theme=dark&hide_border=false)
+
+![Yash's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=yakatyansh&theme=dark&hide_border=false)
 
 ## Top Languages
 
