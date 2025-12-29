@@ -16,12 +16,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a background in El
 - **Tools & Platforms:** Brew, VSCode, Unix Terminal, Git
 
 
-## GitHub Stats
-
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yakatyansh&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yakatyansh&layout=compact&theme=radical)
+<img src="https://apple-music-readme-delta.vercel.app/?">
 
 Thank you for visiting my profile. Let's connect and build something amazing together!
