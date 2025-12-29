@@ -16,6 +16,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a background in El
 - **Tools & Platforms:** Brew, VSCode, Unix Terminal, Git
 
 
-<img src="https://apple-music-readme-delta.vercel.app/?">
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000793.88ad5839a5204da591f49e94af41a818.2255)](https://music-profile.rayriffy.com)
 
 Thank you for visiting my profile. Let's connect and build something amazing together!
