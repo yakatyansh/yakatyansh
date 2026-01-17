@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a background in El
 ## Skills
 
 - **Languages:** Java, TypeScript, HTML, Python, C++, C, JavaScript
-- **Frameworks & Libraries:** React, Django, Spring Boot, PyTorch
+- **Frameworks & Libraries:** React, Django, Spring Boot, OpenCV
 - **Tools & Platforms:** Brew, VSCode, Unix Terminal, Git
 
 [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000793.88ad5839a5204da591f49e94af41a818.2255)](https://music-profile.rayriffy.com)
